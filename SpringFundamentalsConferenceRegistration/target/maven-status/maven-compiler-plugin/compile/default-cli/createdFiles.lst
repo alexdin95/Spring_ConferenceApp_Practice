@@ -1,0 +1,6 @@
+com\plsProject\model\Speaker.class
+com\plsProject\repository\HibernateSpeakerRepositoryImpl.class
+com\plsProject\service\SpeakerServiceImpl.class
+com\plsProject\repository\SpeakerRepository.class
+Application.class
+com\plsProject\service\SpeakerService.class
